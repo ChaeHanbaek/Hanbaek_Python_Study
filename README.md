@@ -26,7 +26,17 @@
 </tr>
 <tr>
 <td>그외</td>
-<td>예외처리, 파일조작(txt,csv), OpenCv</td>
+<td>예외처리, 파일조작(txt,csv)</td>
+</tr>
+<tr>
+<td>OpenCv</td>
+<td>이미지 크기조절, 보간법(선형, 쌍선형), 필터, 상하대칭, 좌우대칭, 회전, 자유회전, 평탄화, 윤곽선추출, 흑백, 회색조, HSV</td>
+</tr>
+<tr>
+<td>알고리즘</td>
+<td>maxheap tree, 이진탐색트리, 허프만코드, Dijkastra, Floyd-Warshell</td>
 </tr>
 </tbody>
 </table>
+
+<h2>Python 실습 파일 목록</h2>
